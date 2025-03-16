@@ -1,0 +1,27 @@
+{
+  "name": "clone_disneyplus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carolmoreiradev/clone_disneyplus.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/carolmoreiradev/clone_disneyplus/issues"
+  },
+  "homepage": "https://github.com/carolmoreiradev/clone_disneyplus#readme",
+  "devDependencies": {
+    "gulp": "^5.0.0",
+    "gulp-sass": "^6.0.1",
+    "sass": "^1.85.1"
+  }
+}
